@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+logs/*
+!logs/.gitkeep
+venv/
+*.db
+*.sqlite3
+uploads/
+test_uploads/
+.pytest_cache/
+.ruff_cache/
+.coverage
+*.pkl
+.DS_Store

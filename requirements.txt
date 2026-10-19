@@ -1,0 +1,16 @@
+# Install with:  pip install -r requirements.txt
+# These are the packages used by the reference demos (Agent Framework + Foundry projects SDK).
+# If you need exact versions, replace these lines with your own pinned versions:  `pip freeze` output.
+agent-framework
+azure-ai-projects
+azure-identity
+azure-search-documents
+python-dotenv
+pydantic
+matplotlib   # only needed to regenerate docs/architecture_diagram.png
+streamlit>=1.40
+pandas
+openpyxl
+python-docx
+pypdf
+azure-storage-blob
