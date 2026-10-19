@@ -1,0 +1,185 @@
+kind,word,group
+action,change,
+action,increase,
+action,decrease,
+action,reduce,
+action,raise,
+action,lower,
+action,stop,
+action,skip,
+action,double,
+action,halve,
+action,switch,
+action,adjust,
+action,start,
+action,quit,
+action,take more,
+action,take less,
+action,take extra,
+action,take earlier,
+action,take later,
+action,instead of,
+action,triple,
+action,pause,
+action,discontinue,
+action,cancel,
+action,replace,
+action,swap,
+action,cut down,
+action,cut back,
+action,taper,
+action,boost,
+action,stop taking,
+action,start taking,
+action,give up,
+action,go off,
+action,come off,
+action,drop,
+action,add,
+action,remove,
+action,extra,
+action,half,
+action,twice as much,
+action,fewer,
+action,split,
+action,crush,
+action,mix,
+action,stretch,
+action,delay,
+action,bring forward,
+action,up the,
+action,wean off,
+action,reset,
+action,modify,
+medication,insulin,Insulin
+medication,glargine,Insulin
+medication,lispro,Insulin
+medication,aspart,Insulin
+medication,detemir,Insulin
+medication,degludec,Insulin
+medication,novorapid,Insulin
+medication,lantus,Insulin
+medication,humalog,Insulin
+medication,levemir,Insulin
+medication,tresiba,Insulin
+medication,basal,Insulin
+medication,bolus,Insulin
+medication,pen needle,Insulin
+medication,insulin pen,Insulin
+medication,metformin,Oral diabetes medicine
+medication,glipizide,Oral diabetes medicine
+medication,glimepiride,Oral diabetes medicine
+medication,gliclazide,Oral diabetes medicine
+medication,sitagliptin,Oral diabetes medicine
+medication,vildagliptin,Oral diabetes medicine
+medication,linagliptin,Oral diabetes medicine
+medication,empagliflozin,Oral diabetes medicine
+medication,dapagliflozin,Oral diabetes medicine
+medication,canagliflozin,Oral diabetes medicine
+medication,pioglitazone,Oral diabetes medicine
+medication,liraglutide,Oral diabetes medicine
+medication,semaglutide,Oral diabetes medicine
+medication,dulaglutide,Oral diabetes medicine
+medication,acarbose,Oral diabetes medicine
+medication,voglibose,Oral diabetes medicine
+medication,glucophage,Oral diabetes medicine
+medication,januvia,Oral diabetes medicine
+medication,jardiance,Oral diabetes medicine
+medication,ozempic,Oral diabetes medicine
+medication,amlodipine,Blood pressure medicine
+medication,telmisartan,Blood pressure medicine
+medication,losartan,Blood pressure medicine
+medication,olmesartan,Blood pressure medicine
+medication,valsartan,Blood pressure medicine
+medication,ramipril,Blood pressure medicine
+medication,enalapril,Blood pressure medicine
+medication,lisinopril,Blood pressure medicine
+medication,atenolol,Blood pressure medicine
+medication,metoprolol,Blood pressure medicine
+medication,bisoprolol,Blood pressure medicine
+medication,carvedilol,Blood pressure medicine
+medication,nebivolol,Blood pressure medicine
+medication,hydrochlorothiazide,Blood pressure medicine
+medication,chlorthalidone,Blood pressure medicine
+medication,indapamide,Blood pressure medicine
+medication,furosemide,Blood pressure medicine
+medication,torsemide,Blood pressure medicine
+medication,spironolactone,Blood pressure medicine
+medication,nifedipine,Blood pressure medicine
+medication,diltiazem,Blood pressure medicine
+medication,verapamil,Blood pressure medicine
+medication,clonidine,Blood pressure medicine
+medication,prazosin,Blood pressure medicine
+medication,labetalol,Blood pressure medicine
+medication,norvasc,Blood pressure medicine
+medication,bp tablet,Blood pressure medicine
+medication,bp tablets,Blood pressure medicine
+medication,water pill,Blood pressure medicine
+medication,water pills,Blood pressure medicine
+medication,atorvastatin,Cholesterol medicine
+medication,rosuvastatin,Cholesterol medicine
+medication,simvastatin,Cholesterol medicine
+medication,pravastatin,Cholesterol medicine
+medication,fenofibrate,Cholesterol medicine
+medication,ezetimibe,Cholesterol medicine
+medication,statin,Cholesterol medicine
+medication,statins,Cholesterol medicine
+medication,lipitor,Cholesterol medicine
+medication,crestor,Cholesterol medicine
+medication,warfarin,Blood thinner
+medication,apixaban,Blood thinner
+medication,rivaroxaban,Blood thinner
+medication,dabigatran,Blood thinner
+medication,clopidogrel,Blood thinner
+medication,ticagrelor,Blood thinner
+medication,aspirin,Blood thinner
+medication,heparin,Blood thinner
+medication,blood thinner,Blood thinner
+medication,blood thinners,Blood thinner
+medication,eliquis,Blood thinner
+medication,xarelto,Blood thinner
+medication,digoxin,Heart medicine
+medication,amiodarone,Heart medicine
+medication,isosorbide,Heart medicine
+medication,nitroglycerin,Heart medicine
+medication,ranolazine,Heart medicine
+medication,ivabradine,Heart medicine
+medication,sacubitril,Heart medicine
+medication,heart tablet,Heart medicine
+medication,heart tablets,Heart medicine
+medication,heart medicine,Heart medicine
+medication,heart medication,Heart medicine
+medication,medication,General medicine terms
+medication,medications,General medicine terms
+medication,medicine,General medicine terms
+medication,medicines,General medicine terms
+medication,meds,General medicine terms
+medication,dose,General medicine terms
+medication,doses,General medicine terms
+medication,dosage,General medicine terms
+medication,dosing,General medicine terms
+medication,tablet,General medicine terms
+medication,tablets,General medicine terms
+medication,pill,General medicine terms
+medication,pills,General medicine terms
+medication,capsule,General medicine terms
+medication,capsules,General medicine terms
+medication,syrup,General medicine terms
+medication,injection,General medicine terms
+medication,injections,General medicine terms
+medication,inhaler,General medicine terms
+medication,patch,General medicine terms
+medication,drug,General medicine terms
+medication,drugs,General medicine terms
+medication,prescription,General medicine terms
+medication,prescriptions,General medicine terms
+medication,mg,General medicine terms
+medication,mcg,General medicine terms
+medication,refill,General medicine terms
+medication,supplement,General medicine terms
+medication,supplements,General medicine terms
+medication,antibiotic,General medicine terms
+medication,antibiotics,General medicine terms
+medication,painkiller,General medicine terms
+medication,painkillers,General medicine terms
+medication,tablet strip,General medicine terms

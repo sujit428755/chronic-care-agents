@@ -1,0 +1,658 @@
+task_id,member_id,task,frequency,next_due,status
+CP-301,M-101,Record morning reading,Daily,2026-10-06,Due
+CP-302,M-101,Education module 2,Once,2026-10-10,Open
+CP-303,M-102,Record evening reading,Daily,2026-10-05,Overdue
+CP-304,M-104,Coordinator check-in,Monthly,2026-10-20,Scheduled
+CP-305,M-106,Coordinator check-in,Monthly,2026-10-03,Overdue
+CP-306,M-106,Education module,Once,2026-10-20,Open
+CP-307,M-106,Record evening reading,Daily,2026-10-08,Open
+CP-308,M-107,Record weight,Weekly,2026-10-17,Scheduled
+CP-309,M-107,Record evening reading,Daily,2026-10-21,Scheduled
+CP-310,M-107,Coordinator check-in,Monthly,2026-10-03,Overdue
+CP-311,M-108,Coordinator check-in,Monthly,2026-10-01,Overdue
+CP-312,M-108,Record evening reading,Daily,2026-10-18,Open
+CP-313,M-108,Record weight,Weekly,2026-10-17,Open
+CP-314,M-109,Record morning reading,Daily,2026-10-02,Overdue
+CP-315,M-109,Coordinator check-in,Monthly,2026-10-01,Overdue
+CP-316,M-110,Education module,Once,2026-10-02,Overdue
+CP-317,M-110,Record morning reading,Daily,2026-10-18,Open
+CP-318,M-111,Education module,Once,2026-10-12,Open
+CP-319,M-111,Coordinator check-in,Monthly,2026-10-06,Due
+CP-320,M-112,Record evening reading,Daily,2026-10-01,Overdue
+CP-321,M-112,Education module,Once,2026-10-20,Open
+CP-322,M-113,Record evening reading,Daily,2026-10-19,Open
+CP-323,M-113,Coordinator check-in,Monthly,2026-10-08,Completed
+CP-324,M-113,Education module,Once,2026-10-01,Overdue
+CP-325,M-114,Record evening reading,Daily,2026-10-10,Scheduled
+CP-326,M-114,Education module,Once,2026-10-19,Completed
+CP-327,M-115,Education module,Once,2026-10-07,Due
+CP-328,M-115,Record evening reading,Daily,2026-10-06,Due
+CP-329,M-115,Coordinator check-in,Monthly,2026-10-08,Scheduled
+CP-330,M-116,Record evening reading,Daily,2026-10-21,Completed
+CP-331,M-116,Education module,Once,2026-10-01,Overdue
+CP-332,M-116,Coordinator check-in,Monthly,2026-10-14,Scheduled
+CP-333,M-117,Education module,Once,2026-10-04,Overdue
+CP-334,M-117,Record morning reading,Daily,2026-10-04,Overdue
+CP-335,M-118,Education module,Once,2026-10-10,Open
+CP-336,M-118,Record morning reading,Daily,2026-10-02,Overdue
+CP-337,M-119,Education module,Once,2026-10-12,Scheduled
+CP-338,M-119,Record morning reading,Daily,2026-10-01,Overdue
+CP-339,M-119,Coordinator check-in,Monthly,2026-10-18,Scheduled
+CP-340,M-120,Education module,Once,2026-10-16,Scheduled
+CP-341,M-120,Coordinator check-in,Monthly,2026-10-05,Overdue
+CP-342,M-121,Coordinator check-in,Monthly,2026-10-09,Scheduled
+CP-343,M-121,Record weight,Weekly,2026-10-19,Open
+CP-344,M-121,Record evening reading,Daily,2026-10-07,Due
+CP-345,M-122,Record evening reading,Daily,2026-10-06,Completed
+CP-346,M-122,Coordinator check-in,Monthly,2026-10-14,Scheduled
+CP-347,M-122,Education module,Once,2026-10-07,Due
+CP-348,M-123,Record weight,Weekly,2026-10-16,Open
+CP-349,M-123,Record evening reading,Daily,2026-10-16,Scheduled
+CP-350,M-123,Coordinator check-in,Monthly,2026-10-03,Overdue
+CP-351,M-124,Record evening reading,Daily,2026-10-06,Due
+CP-352,M-124,Record weight,Weekly,2026-10-10,Open
+CP-353,M-125,Record evening reading,Daily,2026-10-07,Due
+CP-354,M-125,Coordinator check-in,Monthly,2026-10-11,Scheduled
+CP-355,M-125,Record weight,Weekly,2026-10-17,Scheduled
+CP-356,M-126,Record evening reading,Daily,2026-10-04,Overdue
+CP-357,M-126,Coordinator check-in,Monthly,2026-10-13,Scheduled
+CP-358,M-126,Education module,Once,2026-10-15,Open
+CP-359,M-127,Record weight,Weekly,2026-10-14,Scheduled
+CP-360,M-127,Record evening reading,Daily,2026-10-03,Completed
+CP-361,M-127,Coordinator check-in,Monthly,2026-10-16,Scheduled
+CP-362,M-128,Education module,Once,2026-10-21,Scheduled
+CP-363,M-128,Coordinator check-in,Monthly,2026-10-16,Scheduled
+CP-364,M-129,Education module,Once,2026-10-14,Scheduled
+CP-365,M-129,Record morning reading,Daily,2026-10-07,Due
+CP-366,M-129,Coordinator check-in,Monthly,2026-10-19,Scheduled
+CP-367,M-130,Record morning reading,Daily,2026-10-11,Scheduled
+CP-368,M-130,Coordinator check-in,Monthly,2026-10-06,Due
+CP-369,M-130,Education module,Once,2026-10-12,Open
+CP-370,M-131,Record evening reading,Daily,2026-10-05,Overdue
+CP-371,M-131,Record weight,Weekly,2026-10-03,Overdue
+CP-372,M-131,Coordinator check-in,Monthly,2026-10-09,Scheduled
+CP-373,M-132,Coordinator check-in,Monthly,2026-10-20,Scheduled
+CP-374,M-132,Education module,Once,2026-10-16,Scheduled
+CP-375,M-132,Record evening reading,Daily,2026-10-10,Scheduled
+CP-376,M-133,Education module,Once,2026-10-10,Scheduled
+CP-377,M-133,Record morning reading,Daily,2026-10-20,Scheduled
+CP-378,M-133,Coordinator check-in,Monthly,2026-10-04,Overdue
+CP-379,M-134,Education module,Once,2026-10-03,Overdue
+CP-380,M-134,Coordinator check-in,Monthly,2026-10-20,Scheduled
+CP-381,M-135,Coordinator check-in,Monthly,2026-10-12,Scheduled
+CP-382,M-135,Record morning reading,Daily,2026-10-13,Open
+CP-383,M-135,Education module,Once,2026-10-12,Scheduled
+CP-384,M-136,Education module,Once,2026-10-12,Open
+CP-385,M-136,Record evening reading,Daily,2026-10-16,Completed
+CP-386,M-136,Coordinator check-in,Monthly,2026-10-17,Scheduled
+CP-387,M-137,Coordinator check-in,Monthly,2026-10-07,Due
+CP-388,M-137,Record morning reading,Daily,2026-10-20,Scheduled
+CP-389,M-137,Education module,Once,2026-10-04,Overdue
+CP-390,M-138,Coordinator check-in,Monthly,2026-10-07,Due
+CP-391,M-138,Education module,Once,2026-10-21,Scheduled
+CP-392,M-139,Coordinator check-in,Monthly,2026-10-20,Scheduled
+CP-393,M-139,Record morning reading,Daily,2026-10-08,Scheduled
+CP-394,M-139,Education module,Once,2026-10-04,Overdue
+CP-395,M-140,Education module,Once,2026-10-21,Completed
+CP-396,M-140,Record evening reading,Daily,2026-10-03,Overdue
+CP-397,M-140,Coordinator check-in,Monthly,2026-10-09,Scheduled
+CP-398,M-141,Record evening reading,Daily,2026-10-16,Open
+CP-399,M-141,Coordinator check-in,Monthly,2026-10-05,Overdue
+CP-400,M-142,Record evening reading,Daily,2026-10-10,Scheduled
+CP-401,M-142,Education module,Once,2026-10-02,Overdue
+CP-402,M-143,Record morning reading,Daily,2026-10-06,Due
+CP-403,M-143,Coordinator check-in,Monthly,2026-10-06,Due
+CP-404,M-143,Education module,Once,2026-10-01,Overdue
+CP-405,M-144,Record weight,Weekly,2026-10-07,Due
+CP-406,M-144,Coordinator check-in,Monthly,2026-10-07,Due
+CP-407,M-144,Record evening reading,Daily,2026-10-02,Overdue
+CP-408,M-145,Coordinator check-in,Monthly,2026-10-20,Scheduled
+CP-409,M-145,Education module,Once,2026-10-17,Open
+CP-410,M-146,Coordinator check-in,Monthly,2026-10-07,Due
+CP-411,M-146,Record evening reading,Daily,2026-10-09,Scheduled
+CP-412,M-146,Record weight,Weekly,2026-10-01,Overdue
+CP-413,M-147,Education module,Once,2026-10-14,Scheduled
+CP-414,M-147,Record evening reading,Daily,2026-10-04,Overdue
+CP-415,M-147,Coordinator check-in,Monthly,2026-10-10,Scheduled
+CP-416,M-148,Coordinator check-in,Monthly,2026-10-09,Completed
+CP-417,M-148,Record evening reading,Daily,2026-10-13,Open
+CP-418,M-148,Record weight,Weekly,2026-10-21,Open
+CP-419,M-149,Record evening reading,Daily,2026-10-16,Scheduled
+CP-420,M-149,Education module,Once,2026-10-11,Open
+CP-421,M-149,Coordinator check-in,Monthly,2026-10-17,Scheduled
+CP-422,M-150,Education module,Once,2026-10-06,Due
+CP-423,M-150,Coordinator check-in,Monthly,2026-10-02,Overdue
+CP-424,M-150,Record morning reading,Daily,2026-10-14,Open
+CP-425,M-151,Record evening reading,Daily,2026-10-20,Scheduled
+CP-426,M-151,Record weight,Weekly,2026-10-10,Scheduled
+CP-427,M-152,Record morning reading,Daily,2026-10-09,Open
+CP-428,M-152,Education module,Once,2026-10-06,Due
+CP-429,M-152,Coordinator check-in,Monthly,2026-10-19,Scheduled
+CP-430,M-153,Coordinator check-in,Monthly,2026-10-20,Scheduled
+CP-431,M-153,Record morning reading,Daily,2026-10-15,Open
+CP-432,M-153,Education module,Once,2026-10-04,Overdue
+CP-433,M-154,Education module,Once,2026-10-11,Scheduled
+CP-434,M-154,Record evening reading,Daily,2026-10-18,Scheduled
+CP-435,M-155,Record evening reading,Daily,2026-10-11,Open
+CP-436,M-155,Education module,Once,2026-10-13,Open
+CP-437,M-156,Record evening reading,Daily,2026-10-13,Scheduled
+CP-438,M-156,Education module,Once,2026-10-18,Scheduled
+CP-439,M-157,Education module,Once,2026-10-20,Completed
+CP-440,M-157,Coordinator check-in,Monthly,2026-10-12,Scheduled
+CP-441,M-158,Education module,Once,2026-10-03,Completed
+CP-442,M-158,Record morning reading,Daily,2026-10-07,Due
+CP-443,M-159,Record evening reading,Daily,2026-10-08,Scheduled
+CP-444,M-159,Record weight,Weekly,2026-10-04,Overdue
+CP-445,M-159,Coordinator check-in,Monthly,2026-10-16,Scheduled
+CP-446,M-160,Record weight,Weekly,2026-10-03,Overdue
+CP-447,M-160,Record evening reading,Daily,2026-10-21,Open
+CP-448,M-161,Education module,Once,2026-10-08,Scheduled
+CP-449,M-161,Record morning reading,Daily,2026-10-18,Open
+CP-450,M-161,Coordinator check-in,Monthly,2026-10-11,Scheduled
+CP-451,M-162,Coordinator check-in,Monthly,2026-10-04,Overdue
+CP-452,M-162,Record morning reading,Daily,2026-10-15,Completed
+CP-453,M-162,Education module,Once,2026-10-11,Open
+CP-454,M-163,Coordinator check-in,Monthly,2026-10-18,Scheduled
+CP-455,M-163,Record evening reading,Daily,2026-10-07,Due
+CP-456,M-163,Education module,Once,2026-10-09,Scheduled
+CP-457,M-164,Education module,Once,2026-10-12,Open
+CP-458,M-164,Record evening reading,Daily,2026-10-02,Overdue
+CP-459,M-165,Record weight,Weekly,2026-10-16,Scheduled
+CP-460,M-165,Record evening reading,Daily,2026-10-15,Scheduled
+CP-461,M-165,Coordinator check-in,Monthly,2026-10-07,Due
+CP-462,M-166,Record evening reading,Daily,2026-10-07,Due
+CP-463,M-166,Record weight,Weekly,2026-10-18,Scheduled
+CP-464,M-166,Coordinator check-in,Monthly,2026-10-10,Scheduled
+CP-465,M-167,Record weight,Weekly,2026-10-09,Open
+CP-466,M-167,Record evening reading,Daily,2026-10-12,Scheduled
+CP-467,M-167,Coordinator check-in,Monthly,2026-10-15,Scheduled
+CP-468,M-168,Coordinator check-in,Monthly,2026-10-21,Scheduled
+CP-469,M-168,Record evening reading,Daily,2026-10-20,Scheduled
+CP-470,M-168,Record weight,Weekly,2026-10-16,Open
+CP-471,M-169,Record evening reading,Daily,2026-10-13,Open
+CP-472,M-169,Record weight,Weekly,2026-10-21,Scheduled
+CP-473,M-169,Coordinator check-in,Monthly,2026-10-19,Scheduled
+CP-474,M-170,Record morning reading,Daily,2026-10-13,Open
+CP-475,M-170,Education module,Once,2026-10-20,Open
+CP-476,M-171,Coordinator check-in,Monthly,2026-10-02,Overdue
+CP-477,M-171,Record morning reading,Daily,2026-10-03,Overdue
+CP-478,M-171,Education module,Once,2026-10-17,Scheduled
+CP-479,M-172,Coordinator check-in,Monthly,2026-10-20,Scheduled
+CP-480,M-172,Record weight,Weekly,2026-10-03,Overdue
+CP-481,M-173,Record evening reading,Daily,2026-10-17,Scheduled
+CP-482,M-173,Coordinator check-in,Monthly,2026-10-03,Completed
+CP-483,M-173,Record weight,Weekly,2026-10-05,Overdue
+CP-484,M-174,Record morning reading,Daily,2026-10-19,Open
+CP-485,M-174,Coordinator check-in,Monthly,2026-10-19,Scheduled
+CP-486,M-175,Record evening reading,Daily,2026-10-14,Open
+CP-487,M-175,Coordinator check-in,Monthly,2026-10-19,Scheduled
+CP-488,M-175,Education module,Once,2026-10-07,Due
+CP-489,M-176,Coordinator check-in,Monthly,2026-10-02,Overdue
+CP-490,M-176,Education module,Once,2026-10-04,Overdue
+CP-491,M-176,Record evening reading,Daily,2026-10-02,Overdue
+CP-492,M-177,Education module,Once,2026-10-21,Scheduled
+CP-493,M-177,Coordinator check-in,Monthly,2026-10-09,Scheduled
+CP-494,M-177,Record morning reading,Daily,2026-10-12,Open
+CP-495,M-178,Coordinator check-in,Monthly,2026-10-20,Scheduled
+CP-496,M-178,Record evening reading,Daily,2026-10-20,Open
+CP-497,M-178,Education module,Once,2026-10-04,Overdue
+CP-498,M-179,Record weight,Weekly,2026-10-07,Due
+CP-499,M-179,Coordinator check-in,Monthly,2026-10-15,Scheduled
+CP-500,M-179,Record evening reading,Daily,2026-10-07,Due
+CP-501,M-180,Record evening reading,Daily,2026-10-12,Scheduled
+CP-502,M-180,Coordinator check-in,Monthly,2026-10-16,Scheduled
+CP-503,M-180,Record weight,Weekly,2026-10-09,Scheduled
+CP-504,M-181,Record evening reading,Daily,2026-10-13,Scheduled
+CP-505,M-181,Coordinator check-in,Monthly,2026-10-04,Completed
+CP-506,M-182,Record weight,Weekly,2026-10-16,Scheduled
+CP-507,M-182,Record evening reading,Daily,2026-10-05,Overdue
+CP-508,M-182,Coordinator check-in,Monthly,2026-10-13,Scheduled
+CP-509,M-183,Record weight,Weekly,2026-10-18,Open
+CP-510,M-183,Record evening reading,Daily,2026-10-15,Open
+CP-511,M-183,Coordinator check-in,Monthly,2026-10-14,Scheduled
+CP-512,M-184,Record evening reading,Daily,2026-10-19,Open
+CP-513,M-184,Record weight,Weekly,2026-10-06,Due
+CP-514,M-184,Coordinator check-in,Monthly,2026-10-06,Due
+CP-515,M-185,Coordinator check-in,Monthly,2026-10-21,Completed
+CP-516,M-185,Education module,Once,2026-10-10,Open
+CP-517,M-185,Record evening reading,Daily,2026-10-13,Open
+CP-518,M-186,Coordinator check-in,Monthly,2026-10-04,Overdue
+CP-519,M-186,Education module,Once,2026-10-03,Overdue
+CP-520,M-187,Record morning reading,Daily,2026-10-11,Scheduled
+CP-521,M-187,Coordinator check-in,Monthly,2026-10-03,Overdue
+CP-522,M-187,Education module,Once,2026-10-19,Scheduled
+CP-523,M-188,Record weight,Weekly,2026-10-08,Scheduled
+CP-524,M-188,Coordinator check-in,Monthly,2026-10-02,Overdue
+CP-525,M-188,Record evening reading,Daily,2026-10-18,Scheduled
+CP-526,M-189,Record weight,Weekly,2026-10-21,Open
+CP-527,M-189,Record evening reading,Daily,2026-10-16,Scheduled
+CP-528,M-190,Record morning reading,Daily,2026-10-02,Overdue
+CP-529,M-190,Coordinator check-in,Monthly,2026-10-12,Scheduled
+CP-530,M-191,Record evening reading,Daily,2026-10-10,Scheduled
+CP-531,M-191,Coordinator check-in,Monthly,2026-10-21,Scheduled
+CP-532,M-192,Education module,Once,2026-10-16,Open
+CP-533,M-192,Coordinator check-in,Monthly,2026-10-01,Overdue
+CP-534,M-193,Coordinator check-in,Monthly,2026-10-14,Scheduled
+CP-535,M-193,Record evening reading,Daily,2026-10-15,Open
+CP-536,M-194,Record morning reading,Daily,2026-10-18,Scheduled
+CP-537,M-194,Education module,Once,2026-10-12,Completed
+CP-538,M-194,Coordinator check-in,Monthly,2026-10-02,Overdue
+CP-539,M-195,Education module,Once,2026-10-09,Scheduled
+CP-540,M-195,Coordinator check-in,Monthly,2026-10-12,Scheduled
+CP-541,M-195,Record evening reading,Daily,2026-10-21,Scheduled
+CP-542,M-196,Record morning reading,Daily,2026-10-08,Scheduled
+CP-543,M-196,Coordinator check-in,Monthly,2026-10-03,Overdue
+CP-544,M-197,Coordinator check-in,Monthly,2026-10-04,Overdue
+CP-545,M-197,Record weight,Weekly,2026-10-11,Open
+CP-546,M-197,Record evening reading,Daily,2026-10-15,Open
+CP-547,M-198,Coordinator check-in,Monthly,2026-10-08,Scheduled
+CP-548,M-198,Record morning reading,Daily,2026-10-11,Scheduled
+CP-549,M-199,Record evening reading,Daily,2026-10-17,Scheduled
+CP-550,M-199,Record weight,Weekly,2026-10-09,Open
+CP-551,M-199,Coordinator check-in,Monthly,2026-10-01,Overdue
+CP-552,M-200,Coordinator check-in,Monthly,2026-10-10,Scheduled
+CP-553,M-200,Record morning reading,Daily,2026-10-19,Open
+CP-554,M-200,Education module,Once,2026-10-09,Scheduled
+CP-555,M-201,Coordinator check-in,Monthly,2026-10-19,Scheduled
+CP-556,M-201,Record morning reading,Daily,2026-10-15,Open
+CP-557,M-201,Education module,Once,2026-10-04,Overdue
+CP-558,M-202,Record weight,Weekly,2026-10-13,Scheduled
+CP-559,M-202,Coordinator check-in,Monthly,2026-10-12,Scheduled
+CP-560,M-202,Record evening reading,Daily,2026-10-18,Open
+CP-561,M-203,Record morning reading,Daily,2026-10-12,Scheduled
+CP-562,M-203,Education module,Once,2026-10-15,Scheduled
+CP-563,M-203,Coordinator check-in,Monthly,2026-10-12,Scheduled
+CP-564,M-204,Record morning reading,Daily,2026-10-21,Scheduled
+CP-565,M-204,Education module,Once,2026-10-01,Overdue
+CP-566,M-205,Coordinator check-in,Monthly,2026-10-14,Scheduled
+CP-567,M-205,Education module,Once,2026-10-08,Open
+CP-568,M-205,Record evening reading,Daily,2026-10-02,Overdue
+CP-569,M-206,Record morning reading,Daily,2026-10-13,Scheduled
+CP-570,M-206,Education module,Once,2026-10-06,Due
+CP-571,M-206,Coordinator check-in,Monthly,2026-10-16,Scheduled
+CP-572,M-207,Record evening reading,Daily,2026-10-03,Overdue
+CP-573,M-207,Education module,Once,2026-10-17,Scheduled
+CP-574,M-207,Coordinator check-in,Monthly,2026-10-19,Scheduled
+CP-575,M-208,Record evening reading,Daily,2026-10-16,Open
+CP-576,M-208,Coordinator check-in,Monthly,2026-10-21,Scheduled
+CP-577,M-209,Record evening reading,Daily,2026-10-15,Scheduled
+CP-578,M-209,Record weight,Weekly,2026-10-12,Scheduled
+CP-579,M-209,Coordinator check-in,Monthly,2026-10-12,Scheduled
+CP-580,M-210,Education module,Once,2026-10-13,Scheduled
+CP-581,M-210,Coordinator check-in,Monthly,2026-10-02,Overdue
+CP-582,M-210,Record evening reading,Daily,2026-10-06,Due
+CP-583,M-211,Education module,Once,2026-10-11,Scheduled
+CP-584,M-211,Coordinator check-in,Monthly,2026-10-15,Completed
+CP-585,M-211,Record morning reading,Daily,2026-10-07,Completed
+CP-586,M-212,Coordinator check-in,Monthly,2026-10-02,Overdue
+CP-587,M-212,Record evening reading,Daily,2026-10-21,Open
+CP-588,M-213,Record evening reading,Daily,2026-10-09,Open
+CP-589,M-213,Coordinator check-in,Monthly,2026-10-01,Overdue
+CP-590,M-213,Education module,Once,2026-10-18,Scheduled
+CP-591,M-214,Coordinator check-in,Monthly,2026-10-17,Scheduled
+CP-592,M-214,Record evening reading,Daily,2026-10-19,Completed
+CP-593,M-214,Record weight,Weekly,2026-10-08,Open
+CP-594,M-215,Record evening reading,Daily,2026-10-05,Overdue
+CP-595,M-215,Record weight,Weekly,2026-10-11,Completed
+CP-596,M-216,Education module,Once,2026-10-08,Open
+CP-597,M-216,Record evening reading,Daily,2026-10-11,Open
+CP-598,M-216,Coordinator check-in,Monthly,2026-10-07,Due
+CP-599,M-217,Coordinator check-in,Monthly,2026-10-18,Scheduled
+CP-600,M-217,Record evening reading,Daily,2026-10-14,Open
+CP-601,M-217,Education module,Once,2026-10-16,Open
+CP-602,M-218,Education module,Once,2026-10-20,Open
+CP-603,M-218,Coordinator check-in,Monthly,2026-10-05,Overdue
+CP-604,M-218,Record evening reading,Daily,2026-10-17,Open
+CP-605,M-219,Coordinator check-in,Monthly,2026-10-04,Overdue
+CP-606,M-219,Record evening reading,Daily,2026-10-15,Scheduled
+CP-607,M-219,Education module,Once,2026-10-08,Scheduled
+CP-608,M-220,Coordinator check-in,Monthly,2026-10-14,Scheduled
+CP-609,M-220,Education module,Once,2026-10-05,Overdue
+CP-610,M-220,Record evening reading,Daily,2026-10-21,Scheduled
+CP-611,M-221,Record evening reading,Daily,2026-10-03,Overdue
+CP-612,M-221,Education module,Once,2026-10-16,Open
+CP-613,M-222,Education module,Once,2026-10-11,Scheduled
+CP-614,M-222,Coordinator check-in,Monthly,2026-10-07,Completed
+CP-615,M-223,Coordinator check-in,Monthly,2026-10-10,Scheduled
+CP-616,M-223,Record evening reading,Daily,2026-10-01,Overdue
+CP-617,M-223,Education module,Once,2026-10-17,Completed
+CP-618,M-224,Record evening reading,Daily,2026-10-15,Completed
+CP-619,M-224,Record weight,Weekly,2026-10-11,Open
+CP-620,M-224,Coordinator check-in,Monthly,2026-10-15,Scheduled
+CP-621,M-225,Coordinator check-in,Monthly,2026-10-12,Scheduled
+CP-622,M-225,Record evening reading,Daily,2026-10-03,Overdue
+CP-623,M-226,Coordinator check-in,Monthly,2026-10-07,Due
+CP-624,M-226,Education module,Once,2026-10-03,Overdue
+CP-625,M-227,Record weight,Weekly,2026-10-13,Scheduled
+CP-626,M-227,Record evening reading,Daily,2026-10-11,Completed
+CP-627,M-227,Coordinator check-in,Monthly,2026-10-14,Scheduled
+CP-628,M-228,Education module,Once,2026-10-06,Due
+CP-629,M-228,Coordinator check-in,Monthly,2026-10-15,Scheduled
+CP-630,M-228,Record evening reading,Daily,2026-10-09,Open
+CP-631,M-229,Record evening reading,Daily,2026-10-12,Scheduled
+CP-632,M-229,Coordinator check-in,Monthly,2026-10-17,Scheduled
+CP-633,M-229,Record weight,Weekly,2026-10-02,Overdue
+CP-634,M-230,Coordinator check-in,Monthly,2026-10-01,Overdue
+CP-635,M-230,Record evening reading,Daily,2026-10-19,Scheduled
+CP-636,M-230,Education module,Once,2026-10-04,Overdue
+CP-637,M-231,Record weight,Weekly,2026-10-04,Overdue
+CP-638,M-231,Coordinator check-in,Monthly,2026-10-11,Scheduled
+CP-639,M-231,Record evening reading,Daily,2026-10-17,Open
+CP-640,M-232,Record evening reading,Daily,2026-10-18,Open
+CP-641,M-232,Record weight,Weekly,2026-10-07,Due
+CP-642,M-232,Coordinator check-in,Monthly,2026-10-10,Scheduled
+CP-643,M-233,Coordinator check-in,Monthly,2026-10-13,Scheduled
+CP-644,M-233,Education module,Once,2026-10-15,Open
+CP-645,M-233,Record evening reading,Daily,2026-10-08,Open
+CP-646,M-234,Record evening reading,Daily,2026-10-01,Overdue
+CP-647,M-234,Coordinator check-in,Monthly,2026-10-09,Scheduled
+CP-648,M-234,Education module,Once,2026-10-04,Overdue
+CP-649,M-235,Education module,Once,2026-10-05,Overdue
+CP-650,M-235,Coordinator check-in,Monthly,2026-10-11,Scheduled
+CP-651,M-235,Record evening reading,Daily,2026-10-16,Open
+CP-652,M-236,Education module,Once,2026-10-01,Overdue
+CP-653,M-236,Coordinator check-in,Monthly,2026-10-03,Overdue
+CP-654,M-236,Record evening reading,Daily,2026-10-09,Open
+CP-655,M-237,Coordinator check-in,Monthly,2026-10-10,Scheduled
+CP-656,M-237,Record evening reading,Daily,2026-10-21,Open
+CP-657,M-237,Education module,Once,2026-10-15,Open
+CP-658,M-238,Coordinator check-in,Monthly,2026-10-13,Scheduled
+CP-659,M-238,Education module,Once,2026-10-18,Scheduled
+CP-660,M-238,Record morning reading,Daily,2026-10-18,Open
+CP-661,M-239,Education module,Once,2026-10-13,Open
+CP-662,M-239,Record morning reading,Daily,2026-10-02,Overdue
+CP-663,M-239,Coordinator check-in,Monthly,2026-10-14,Scheduled
+CP-664,M-240,Education module,Once,2026-10-19,Completed
+CP-665,M-240,Record morning reading,Daily,2026-10-09,Scheduled
+CP-666,M-241,Coordinator check-in,Monthly,2026-10-08,Scheduled
+CP-667,M-241,Record weight,Weekly,2026-10-10,Open
+CP-668,M-241,Record evening reading,Daily,2026-10-21,Open
+CP-669,M-242,Record evening reading,Daily,2026-10-19,Scheduled
+CP-670,M-242,Coordinator check-in,Monthly,2026-10-12,Scheduled
+CP-671,M-242,Record weight,Weekly,2026-10-08,Scheduled
+CP-672,M-243,Record evening reading,Daily,2026-10-14,Completed
+CP-673,M-243,Coordinator check-in,Monthly,2026-10-13,Scheduled
+CP-674,M-243,Record weight,Weekly,2026-10-16,Open
+CP-675,M-244,Coordinator check-in,Monthly,2026-10-20,Scheduled
+CP-676,M-244,Education module,Once,2026-10-17,Scheduled
+CP-677,M-244,Record morning reading,Daily,2026-10-07,Due
+CP-678,M-245,Record evening reading,Daily,2026-10-01,Overdue
+CP-679,M-245,Coordinator check-in,Monthly,2026-10-11,Scheduled
+CP-680,M-245,Education module,Once,2026-10-13,Scheduled
+CP-681,M-246,Education module,Once,2026-10-17,Open
+CP-682,M-246,Coordinator check-in,Monthly,2026-10-11,Completed
+CP-683,M-246,Record morning reading,Daily,2026-10-20,Open
+CP-684,M-247,Coordinator check-in,Monthly,2026-10-09,Scheduled
+CP-685,M-247,Record morning reading,Daily,2026-10-01,Completed
+CP-686,M-247,Education module,Once,2026-10-16,Scheduled
+CP-687,M-248,Coordinator check-in,Monthly,2026-10-08,Scheduled
+CP-688,M-248,Record evening reading,Daily,2026-10-16,Scheduled
+CP-689,M-249,Coordinator check-in,Monthly,2026-10-05,Overdue
+CP-690,M-249,Education module,Once,2026-10-13,Scheduled
+CP-691,M-249,Record morning reading,Daily,2026-10-20,Open
+CP-692,M-250,Coordinator check-in,Monthly,2026-10-02,Overdue
+CP-693,M-250,Record morning reading,Daily,2026-10-17,Scheduled
+CP-694,M-251,Record evening reading,Daily,2026-10-18,Open
+CP-695,M-251,Record weight,Weekly,2026-10-21,Scheduled
+CP-696,M-251,Coordinator check-in,Monthly,2026-10-04,Completed
+CP-697,M-252,Record weight,Weekly,2026-10-13,Open
+CP-698,M-252,Coordinator check-in,Monthly,2026-10-20,Scheduled
+CP-699,M-253,Record evening reading,Daily,2026-10-16,Open
+CP-700,M-253,Coordinator check-in,Monthly,2026-10-11,Scheduled
+CP-701,M-253,Education module,Once,2026-10-03,Overdue
+CP-702,M-254,Record evening reading,Daily,2026-10-06,Due
+CP-703,M-254,Coordinator check-in,Monthly,2026-10-19,Scheduled
+CP-704,M-254,Education module,Once,2026-10-12,Completed
+CP-705,M-255,Coordinator check-in,Monthly,2026-10-01,Overdue
+CP-706,M-255,Record evening reading,Daily,2026-10-02,Overdue
+CP-707,M-255,Education module,Once,2026-10-15,Open
+CP-708,M-256,Record weight,Weekly,2026-10-05,Overdue
+CP-709,M-256,Record evening reading,Daily,2026-10-13,Scheduled
+CP-710,M-257,Record morning reading,Daily,2026-10-03,Overdue
+CP-711,M-257,Coordinator check-in,Monthly,2026-10-16,Scheduled
+CP-712,M-258,Record evening reading,Daily,2026-10-05,Overdue
+CP-713,M-258,Coordinator check-in,Monthly,2026-10-08,Scheduled
+CP-714,M-258,Education module,Once,2026-10-01,Overdue
+CP-715,M-259,Education module,Once,2026-10-09,Scheduled
+CP-716,M-259,Record evening reading,Daily,2026-10-02,Overdue
+CP-717,M-259,Coordinator check-in,Monthly,2026-10-09,Scheduled
+CP-718,M-260,Coordinator check-in,Monthly,2026-10-18,Scheduled
+CP-719,M-260,Record evening reading,Daily,2026-10-07,Due
+CP-720,M-260,Record weight,Weekly,2026-10-18,Scheduled
+CP-721,M-261,Record morning reading,Daily,2026-10-03,Overdue
+CP-722,M-261,Coordinator check-in,Monthly,2026-10-04,Overdue
+CP-723,M-261,Education module,Once,2026-10-04,Overdue
+CP-724,M-262,Education module,Once,2026-10-07,Due
+CP-725,M-262,Coordinator check-in,Monthly,2026-10-05,Overdue
+CP-726,M-262,Record morning reading,Daily,2026-10-16,Scheduled
+CP-727,M-263,Coordinator check-in,Monthly,2026-10-12,Completed
+CP-728,M-263,Record weight,Weekly,2026-10-14,Open
+CP-729,M-263,Record evening reading,Daily,2026-10-21,Scheduled
+CP-730,M-264,Coordinator check-in,Monthly,2026-10-08,Scheduled
+CP-731,M-264,Record evening reading,Daily,2026-10-10,Open
+CP-732,M-264,Record weight,Weekly,2026-10-05,Overdue
+CP-733,M-265,Coordinator check-in,Monthly,2026-10-08,Scheduled
+CP-734,M-265,Record evening reading,Daily,2026-10-15,Open
+CP-735,M-265,Education module,Once,2026-10-12,Open
+CP-736,M-266,Record morning reading,Daily,2026-10-18,Open
+CP-737,M-266,Education module,Once,2026-10-03,Overdue
+CP-738,M-266,Coordinator check-in,Monthly,2026-10-12,Scheduled
+CP-739,M-267,Coordinator check-in,Monthly,2026-10-09,Scheduled
+CP-740,M-267,Record morning reading,Daily,2026-10-09,Open
+CP-741,M-267,Education module,Once,2026-10-20,Open
+CP-742,M-268,Record evening reading,Daily,2026-10-12,Completed
+CP-743,M-268,Coordinator check-in,Monthly,2026-10-21,Completed
+CP-744,M-269,Record morning reading,Daily,2026-10-13,Completed
+CP-745,M-269,Education module,Once,2026-10-14,Completed
+CP-746,M-269,Coordinator check-in,Monthly,2026-10-05,Overdue
+CP-747,M-270,Coordinator check-in,Monthly,2026-10-04,Overdue
+CP-748,M-270,Education module,Once,2026-10-03,Overdue
+CP-749,M-270,Record evening reading,Daily,2026-10-19,Scheduled
+CP-750,M-271,Coordinator check-in,Monthly,2026-10-15,Scheduled
+CP-751,M-271,Record evening reading,Daily,2026-10-06,Due
+CP-752,M-271,Education module,Once,2026-10-09,Open
+CP-753,M-272,Record morning reading,Daily,2026-10-01,Overdue
+CP-754,M-272,Coordinator check-in,Monthly,2026-10-21,Scheduled
+CP-755,M-272,Education module,Once,2026-10-15,Scheduled
+CP-756,M-273,Education module,Once,2026-10-21,Scheduled
+CP-757,M-273,Record morning reading,Daily,2026-10-15,Scheduled
+CP-758,M-274,Record weight,Weekly,2026-10-12,Open
+CP-759,M-274,Record evening reading,Daily,2026-10-19,Scheduled
+CP-760,M-274,Coordinator check-in,Monthly,2026-10-01,Overdue
+CP-761,M-275,Record weight,Weekly,2026-10-06,Due
+CP-762,M-275,Coordinator check-in,Monthly,2026-10-08,Completed
+CP-763,M-276,Coordinator check-in,Monthly,2026-10-11,Scheduled
+CP-764,M-276,Record weight,Weekly,2026-10-16,Scheduled
+CP-765,M-276,Record evening reading,Daily,2026-10-13,Scheduled
+CP-766,M-277,Coordinator check-in,Monthly,2026-10-04,Overdue
+CP-767,M-277,Record morning reading,Daily,2026-10-02,Overdue
+CP-768,M-277,Education module,Once,2026-10-20,Open
+CP-769,M-278,Record morning reading,Daily,2026-10-05,Overdue
+CP-770,M-278,Coordinator check-in,Monthly,2026-10-11,Scheduled
+CP-771,M-279,Record morning reading,Daily,2026-10-08,Open
+CP-772,M-279,Coordinator check-in,Monthly,2026-10-07,Due
+CP-773,M-279,Education module,Once,2026-10-20,Scheduled
+CP-774,M-280,Record weight,Weekly,2026-10-15,Open
+CP-775,M-280,Coordinator check-in,Monthly,2026-10-20,Scheduled
+CP-776,M-280,Record evening reading,Daily,2026-10-03,Overdue
+CP-777,M-281,Coordinator check-in,Monthly,2026-10-21,Scheduled
+CP-778,M-281,Education module,Once,2026-10-21,Open
+CP-779,M-281,Record evening reading,Daily,2026-10-11,Scheduled
+CP-780,M-282,Coordinator check-in,Monthly,2026-10-02,Overdue
+CP-781,M-282,Record weight,Weekly,2026-10-16,Open
+CP-782,M-282,Record evening reading,Daily,2026-10-13,Scheduled
+CP-783,M-283,Record weight,Weekly,2026-10-16,Scheduled
+CP-784,M-283,Coordinator check-in,Monthly,2026-10-01,Overdue
+CP-785,M-283,Record evening reading,Daily,2026-10-08,Scheduled
+CP-786,M-284,Record weight,Weekly,2026-10-04,Overdue
+CP-787,M-284,Record evening reading,Daily,2026-10-01,Overdue
+CP-788,M-284,Coordinator check-in,Monthly,2026-10-11,Scheduled
+CP-789,M-285,Coordinator check-in,Monthly,2026-10-21,Scheduled
+CP-790,M-285,Education module,Once,2026-10-19,Open
+CP-791,M-285,Record morning reading,Daily,2026-10-05,Overdue
+CP-792,M-286,Record weight,Weekly,2026-10-08,Open
+CP-793,M-286,Coordinator check-in,Monthly,2026-10-04,Overdue
+CP-794,M-286,Record evening reading,Daily,2026-10-06,Due
+CP-795,M-287,Education module,Once,2026-10-06,Due
+CP-796,M-287,Coordinator check-in,Monthly,2026-10-15,Scheduled
+CP-797,M-287,Record morning reading,Daily,2026-10-01,Overdue
+CP-798,M-288,Record evening reading,Daily,2026-10-05,Overdue
+CP-799,M-288,Record weight,Weekly,2026-10-17,Scheduled
+CP-800,M-288,Coordinator check-in,Monthly,2026-10-15,Scheduled
+CP-801,M-289,Education module,Once,2026-10-07,Due
+CP-802,M-289,Record evening reading,Daily,2026-10-17,Scheduled
+CP-803,M-289,Coordinator check-in,Monthly,2026-10-13,Scheduled
+CP-804,M-290,Education module,Once,2026-10-03,Overdue
+CP-805,M-290,Coordinator check-in,Monthly,2026-10-19,Scheduled
+CP-806,M-291,Record morning reading,Daily,2026-10-19,Completed
+CP-807,M-291,Education module,Once,2026-10-01,Overdue
+CP-808,M-292,Record weight,Weekly,2026-10-03,Overdue
+CP-809,M-292,Coordinator check-in,Monthly,2026-10-09,Scheduled
+CP-810,M-292,Record evening reading,Daily,2026-10-11,Scheduled
+CP-811,M-293,Coordinator check-in,Monthly,2026-10-18,Scheduled
+CP-812,M-293,Record morning reading,Daily,2026-10-05,Overdue
+CP-813,M-293,Education module,Once,2026-10-20,Scheduled
+CP-814,M-294,Education module,Once,2026-10-07,Due
+CP-815,M-294,Coordinator check-in,Monthly,2026-10-06,Due
+CP-816,M-294,Record morning reading,Daily,2026-10-02,Overdue
+CP-817,M-295,Coordinator check-in,Monthly,2026-10-03,Overdue
+CP-818,M-295,Record weight,Weekly,2026-10-21,Scheduled
+CP-819,M-296,Record morning reading,Daily,2026-10-01,Overdue
+CP-820,M-296,Coordinator check-in,Monthly,2026-10-08,Scheduled
+CP-821,M-296,Education module,Once,2026-10-02,Completed
+CP-822,M-297,Coordinator check-in,Monthly,2026-10-15,Scheduled
+CP-823,M-297,Record weight,Weekly,2026-10-17,Scheduled
+CP-824,M-297,Record evening reading,Daily,2026-10-12,Open
+CP-825,M-298,Coordinator check-in,Monthly,2026-10-18,Scheduled
+CP-826,M-298,Education module,Once,2026-10-09,Scheduled
+CP-827,M-298,Record evening reading,Daily,2026-10-03,Overdue
+CP-828,M-299,Coordinator check-in,Monthly,2026-10-08,Scheduled
+CP-829,M-299,Education module,Once,2026-10-05,Overdue
+CP-830,M-299,Record evening reading,Daily,2026-10-06,Due
+CP-831,M-300,Coordinator check-in,Monthly,2026-10-09,Scheduled
+CP-832,M-300,Record evening reading,Daily,2026-10-15,Scheduled
+CP-833,M-301,Record weight,Weekly,2026-10-16,Scheduled
+CP-834,M-301,Coordinator check-in,Monthly,2026-10-09,Completed
+CP-835,M-301,Record evening reading,Daily,2026-10-16,Completed
+CP-836,M-302,Coordinator check-in,Monthly,2026-10-06,Due
+CP-837,M-302,Record weight,Weekly,2026-10-09,Scheduled
+CP-838,M-303,Record morning reading,Daily,2026-10-03,Overdue
+CP-839,M-303,Coordinator check-in,Monthly,2026-10-03,Overdue
+CP-840,M-304,Education module,Once,2026-10-08,Open
+CP-841,M-304,Coordinator check-in,Monthly,2026-10-02,Overdue
+CP-842,M-304,Record morning reading,Daily,2026-10-11,Completed
+CP-843,M-305,Record weight,Weekly,2026-10-08,Open
+CP-844,M-305,Coordinator check-in,Monthly,2026-10-13,Scheduled
+CP-845,M-306,Education module,Once,2026-10-09,Open
+CP-846,M-306,Coordinator check-in,Monthly,2026-10-10,Completed
+CP-847,M-306,Record morning reading,Daily,2026-10-18,Scheduled
+CP-848,M-307,Coordinator check-in,Monthly,2026-10-19,Scheduled
+CP-849,M-307,Record evening reading,Daily,2026-10-03,Overdue
+CP-850,M-307,Education module,Once,2026-10-15,Open
+CP-851,M-308,Record morning reading,Daily,2026-10-03,Overdue
+CP-852,M-308,Coordinator check-in,Monthly,2026-10-06,Due
+CP-853,M-308,Education module,Once,2026-10-01,Overdue
+CP-854,M-309,Record evening reading,Daily,2026-10-08,Completed
+CP-855,M-309,Coordinator check-in,Monthly,2026-10-16,Scheduled
+CP-856,M-309,Record weight,Weekly,2026-10-01,Overdue
+CP-857,M-310,Record weight,Weekly,2026-10-16,Scheduled
+CP-858,M-310,Record evening reading,Daily,2026-10-09,Scheduled
+CP-859,M-311,Coordinator check-in,Monthly,2026-10-14,Scheduled
+CP-860,M-311,Record morning reading,Daily,2026-10-13,Open
+CP-861,M-312,Coordinator check-in,Monthly,2026-10-14,Scheduled
+CP-862,M-312,Education module,Once,2026-10-13,Scheduled
+CP-863,M-313,Record evening reading,Daily,2026-10-13,Open
+CP-864,M-313,Education module,Once,2026-10-15,Open
+CP-865,M-314,Record morning reading,Daily,2026-10-05,Overdue
+CP-866,M-314,Coordinator check-in,Monthly,2026-10-21,Scheduled
+CP-867,M-315,Education module,Once,2026-10-09,Scheduled
+CP-868,M-315,Record evening reading,Daily,2026-10-03,Overdue
+CP-869,M-316,Record weight,Weekly,2026-10-02,Overdue
+CP-870,M-316,Coordinator check-in,Monthly,2026-10-08,Scheduled
+CP-871,M-317,Coordinator check-in,Monthly,2026-10-19,Scheduled
+CP-872,M-317,Record evening reading,Daily,2026-10-04,Overdue
+CP-873,M-317,Record weight,Weekly,2026-10-14,Scheduled
+CP-874,M-318,Coordinator check-in,Monthly,2026-10-13,Scheduled
+CP-875,M-318,Record weight,Weekly,2026-10-02,Overdue
+CP-876,M-318,Record evening reading,Daily,2026-10-14,Open
+CP-877,M-319,Coordinator check-in,Monthly,2026-10-19,Scheduled
+CP-878,M-319,Education module,Once,2026-10-10,Open
+CP-879,M-319,Record evening reading,Daily,2026-10-11,Completed
+CP-880,M-320,Coordinator check-in,Monthly,2026-10-15,Scheduled
+CP-881,M-320,Record weight,Weekly,2026-10-01,Overdue
+CP-882,M-320,Record evening reading,Daily,2026-10-07,Due
+CP-883,M-321,Education module,Once,2026-10-15,Open
+CP-884,M-321,Coordinator check-in,Monthly,2026-10-09,Scheduled
+CP-885,M-322,Record weight,Weekly,2026-10-08,Open
+CP-886,M-322,Coordinator check-in,Monthly,2026-10-07,Due
+CP-887,M-322,Record evening reading,Daily,2026-10-15,Open
+CP-888,M-323,Coordinator check-in,Monthly,2026-10-19,Scheduled
+CP-889,M-323,Record evening reading,Daily,2026-10-04,Overdue
+CP-890,M-324,Coordinator check-in,Monthly,2026-10-16,Scheduled
+CP-891,M-324,Education module,Once,2026-10-01,Overdue
+CP-892,M-325,Record weight,Weekly,2026-10-03,Overdue
+CP-893,M-325,Coordinator check-in,Monthly,2026-10-12,Scheduled
+CP-894,M-325,Record evening reading,Daily,2026-10-10,Open
+CP-895,M-326,Coordinator check-in,Monthly,2026-10-13,Scheduled
+CP-896,M-326,Education module,Once,2026-10-12,Open
+CP-897,M-327,Record evening reading,Daily,2026-10-17,Open
+CP-898,M-327,Education module,Once,2026-10-04,Overdue
+CP-899,M-328,Education module,Once,2026-10-10,Open
+CP-900,M-328,Coordinator check-in,Monthly,2026-10-16,Scheduled
+CP-901,M-329,Education module,Once,2026-10-04,Overdue
+CP-902,M-329,Record morning reading,Daily,2026-10-16,Scheduled
+CP-903,M-329,Coordinator check-in,Monthly,2026-10-16,Scheduled
+CP-904,M-330,Record morning reading,Daily,2026-10-05,Overdue
+CP-905,M-330,Education module,Once,2026-10-19,Open
+CP-906,M-331,Coordinator check-in,Monthly,2026-10-19,Scheduled
+CP-907,M-331,Record weight,Weekly,2026-10-07,Due
+CP-908,M-332,Record evening reading,Daily,2026-10-05,Overdue
+CP-909,M-332,Record weight,Weekly,2026-10-10,Open
+CP-910,M-333,Coordinator check-in,Monthly,2026-10-18,Scheduled
+CP-911,M-333,Record evening reading,Daily,2026-10-01,Overdue
+CP-912,M-333,Education module,Once,2026-10-19,Open
+CP-913,M-334,Record weight,Weekly,2026-10-21,Open
+CP-914,M-334,Coordinator check-in,Monthly,2026-10-13,Scheduled
+CP-915,M-335,Record evening reading,Daily,2026-10-17,Completed
+CP-916,M-335,Education module,Once,2026-10-07,Due
+CP-917,M-335,Coordinator check-in,Monthly,2026-10-12,Scheduled
+CP-918,M-336,Education module,Once,2026-10-06,Due
+CP-919,M-336,Record evening reading,Daily,2026-10-04,Overdue
+CP-920,M-337,Record evening reading,Daily,2026-10-03,Overdue
+CP-921,M-337,Education module,Once,2026-10-20,Scheduled
+CP-922,M-337,Coordinator check-in,Monthly,2026-10-06,Due
+CP-923,M-338,Coordinator check-in,Monthly,2026-10-09,Scheduled
+CP-924,M-338,Education module,Once,2026-10-09,Scheduled
+CP-925,M-338,Record morning reading,Daily,2026-10-08,Open
+CP-926,M-339,Education module,Once,2026-10-08,Scheduled
+CP-927,M-339,Record morning reading,Daily,2026-10-10,Open
+CP-928,M-339,Coordinator check-in,Monthly,2026-10-08,Scheduled
+CP-929,M-340,Record evening reading,Daily,2026-10-21,Open
+CP-930,M-340,Coordinator check-in,Monthly,2026-10-13,Scheduled
+CP-931,M-340,Education module,Once,2026-10-09,Open
+CP-932,M-341,Education module,Once,2026-10-11,Scheduled
+CP-933,M-341,Record morning reading,Daily,2026-10-10,Open
+CP-934,M-341,Coordinator check-in,Monthly,2026-10-20,Scheduled
+CP-935,M-342,Coordinator check-in,Monthly,2026-10-15,Scheduled
+CP-936,M-342,Education module,Once,2026-10-06,Due
+CP-937,M-342,Record evening reading,Daily,2026-10-01,Overdue
+CP-938,M-343,Coordinator check-in,Monthly,2026-10-14,Scheduled
+CP-939,M-343,Record evening reading,Daily,2026-10-12,Open
+CP-940,M-344,Coordinator check-in,Monthly,2026-10-16,Scheduled
+CP-941,M-344,Education module,Once,2026-10-01,Overdue
+CP-942,M-344,Record morning reading,Daily,2026-10-12,Open
+CP-943,M-345,Record evening reading,Daily,2026-10-04,Overdue
+CP-944,M-345,Coordinator check-in,Monthly,2026-10-09,Scheduled
+CP-945,M-346,Record evening reading,Daily,2026-10-02,Overdue
+CP-946,M-346,Record weight,Weekly,2026-10-19,Open
+CP-947,M-347,Record morning reading,Daily,2026-10-20,Scheduled
+CP-948,M-347,Coordinator check-in,Monthly,2026-10-19,Scheduled
+CP-949,M-347,Education module,Once,2026-10-21,Open
+CP-950,M-348,Coordinator check-in,Monthly,2026-10-07,Due
+CP-951,M-348,Record weight,Weekly,2026-10-02,Overdue
+CP-952,M-349,Education module,Once,2026-10-13,Open
+CP-953,M-349,Record morning reading,Daily,2026-10-18,Open
+CP-954,M-349,Coordinator check-in,Monthly,2026-10-14,Scheduled
+CP-955,M-350,Coordinator check-in,Monthly,2026-10-15,Completed
+CP-956,M-350,Record morning reading,Daily,2026-10-20,Open
+CP-957,M-350,Education module,Once,2026-10-17,Open

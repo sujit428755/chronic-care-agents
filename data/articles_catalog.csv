@@ -1,0 +1,111 @@
+article_id,title,program,version,scope,type,file,status,approved_by,updated_at,note
+EDU-401,Understanding Home Readings,All programs,v4,General education only,education,knowledge/education/EDU-401.md,Approved,Content Lead (synthetic),2026-10-07,
+EDU-402,Building a Daily Routine,Diabetes Support,v3,Habit support,education,knowledge/education/EDU-402.md,Approved,Content Lead (synthetic),2026-10-07,
+EDU-403,Preparing for a Care Call,All programs,v2,Checklist,education,knowledge/education/EDU-403.md,Approved,Content Lead (synthetic),2026-10-07,
+EDU-404,When the Program Contacts You,All programs,v5,Escalation process,education,knowledge/education/EDU-404.md,Approved,Content Lead (synthetic),2026-10-07,
+FAQ-701,How do I change my reminder channel?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-701.md,Approved,Content Lead (synthetic),2026-10-07,ADDED synthetic FAQ
+FAQ-702,What happens to the readings I enter?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-702.md,Approved,Content Lead (synthetic),2026-10-07,ADDED synthetic FAQ
+CPG-801,How care plan tasks and statuses work,All programs,v1,Care plan guidance,careplan_guidance,knowledge/careplan_guidance/CPG-801.md,Approved,Content Lead (synthetic),2026-10-07,ADDED synthetic guidance
+CPG-802,What to do about overdue tasks,All programs,v1,Care plan guidance,careplan_guidance,knowledge/careplan_guidance/CPG-802.md,Approved,Content Lead (synthetic),2026-10-07,ADDED synthetic guidance
+EDU-405,Using the Reading Log in the App,All programs,v1,How-to,education,knowledge/education/EDU-405.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-406,Keeping Your Contact Details Up to Date,All programs,v1,Checklist,education,knowledge/education/EDU-406.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-407,Questions to Note Before a Clinic Visit,All programs,v1,Checklist,education,knowledge/education/EDU-407.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-408,Understanding Your Care Plan Tasks,All programs,v1,Care plan basics,education,knowledge/education/EDU-408.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-409,Sharing Information with Your Care Team,All programs,v1,Privacy basics,education,knowledge/education/EDU-409.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-410,Getting Started with Hypertension Support,Hypertension Support,v1,Program orientation,education,knowledge/education/EDU-410.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-703,Who can see my information?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-703.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-704,How do I change my language?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-704.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-705,What does a Due task mean?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-705.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-706,How do I correct a wrong entry?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-706.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-707,Can I ask the assistant about my treatment?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-707.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-708,What if I miss entering my information for a few days?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-708.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+CPG-803,Writing a friendly reminder,All programs,v1,Care plan guidance,careplan_guidance,knowledge/careplan_guidance/CPG-803.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+CPG-804,When a task has no due date,All programs,v1,Care plan guidance,careplan_guidance,knowledge/careplan_guidance/CPG-804.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+CPG-805,Reminder timing and channels,All programs,v1,Care plan guidance,careplan_guidance,knowledge/careplan_guidance/CPG-805.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+CPG-806,Handing a case to staff,All programs,v1,Care plan guidance,careplan_guidance,knowledge/careplan_guidance/CPG-806.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-411,Using the Reminder Settings,All programs,v1,How-to,education,knowledge/education/EDU-411.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-412,What Your Member ID Is For,All programs,v1,Program basics,education,knowledge/education/EDU-412.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-413,How a Care Call Is Scheduled,All programs,v1,Process,education,knowledge/education/EDU-413.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-414,Reading Your Weekly Summary,All programs,v1,How-to,education,knowledge/education/EDU-414.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-415,What Happens After You Save an Entry,All programs,v1,Process,education,knowledge/education/EDU-415.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-416,Understanding Task Frequencies,All programs,v1,Care plan basics,education,knowledge/education/EDU-416.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-417,What Overdue Means,All programs,v1,Care plan basics,education,knowledge/education/EDU-417.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-418,What Scheduled Means,All programs,v1,Care plan basics,education,knowledge/education/EDU-418.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-419,How to Prepare for a Coordinator Check-in,All programs,v1,Checklist,education,knowledge/education/EDU-419.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-420,Keeping a Simple Entry Habit,All programs,v1,Habit support,education,knowledge/education/EDU-420.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-421,Using the App on a Shared Device,All programs,v1,Privacy basics,education,knowledge/education/EDU-421.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-422,Language Options in the Program,All programs,v1,Program basics,education,knowledge/education/EDU-422.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-423,Understanding Consent in the Program,All programs,v1,Privacy basics,education,knowledge/education/EDU-423.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-424,How to Renew Your Consent,All programs,v1,Process,education,knowledge/education/EDU-424.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-425,What the Activity Log Records,All programs,v1,Privacy basics,education,knowledge/education/EDU-425.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-426,How Staff Review Requests Work,All programs,v1,Process,education,knowledge/education/EDU-426.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-427,Understanding Entry Dates and Times,All programs,v1,How-to,education,knowledge/education/EDU-427.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-428,Why Some Dates Show No Entry,All programs,v1,How-to,education,knowledge/education/EDU-428.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-429,Getting Started with Diabetes Support,Diabetes Support,v1,Program orientation,education,knowledge/education/EDU-429.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-430,Getting Started with Cardiac Wellness,Cardiac Wellness,v1,Program orientation,education,knowledge/education/EDU-430.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-431,Recording Glucose Entries in the App,Diabetes Support,v1,How-to,education,knowledge/education/EDU-431.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-432,Recording Blood Pressure Entries in the App,Hypertension Support,v1,How-to,education,knowledge/education/EDU-432.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-433,Recording Weight Entries in the App,Cardiac Wellness,v1,How-to,education,knowledge/education/EDU-433.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-434,Using the Same Device Each Time,All programs,v1,Habit support,education,knowledge/education/EDU-434.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-435,Writing Down Questions for Your Clinician,All programs,v1,Checklist,education,knowledge/education/EDU-435.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-436,What the Program Cannot Do,All programs,v1,Program basics,education,knowledge/education/EDU-436.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-437,Who to Contact for What,All programs,v1,Program basics,education,knowledge/education/EDU-437.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-438,Understanding Staff Follow-up,All programs,v1,Process,education,knowledge/education/EDU-438.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-439,How Education Articles Are Approved,All programs,v1,Program basics,education,knowledge/education/EDU-439.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-440,Understanding Article Versions,All programs,v1,Program basics,education,knowledge/education/EDU-440.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-441,Using the Member Assistant,All programs,v1,How-to,education,knowledge/education/EDU-441.md,Retired,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-442,Typing Dates in Your Messages,All programs,v1,How-to,education,knowledge/education/EDU-442.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-443,Changing Your Preferred Channel,All programs,v1,How-to,education,knowledge/education/EDU-443.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-444,What to Do If You Cannot Sign In,All programs,v1,How-to,education,knowledge/education/EDU-444.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-445,Taking Part Through a Family Member,All programs,v1,Privacy basics,education,knowledge/education/EDU-445.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-446,Respecting Quiet Hours,All programs,v1,Reminders,education,knowledge/education/EDU-446.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-447,Understanding Program Messages,All programs,v1,Reminders,education,knowledge/education/EDU-447.md,Draft,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-448,Using Notes on Entries,All programs,v1,How-to,education,knowledge/education/EDU-448.md,Draft,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-449,How Long Your Information Is Kept,All programs,v1,Privacy basics,education,knowledge/education/EDU-449.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-450,Moving to a Different Program,All programs,v1,Process,education,knowledge/education/EDU-450.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+EDU-451,Taking a Break from the Program,All programs,v1,Process,education,knowledge/education/EDU-451.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-709,How do I see my care plan tasks?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-709.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-710,Why did I get a reminder?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-710.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-711,Can I change a due date?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-711.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-712,How do I mark a task completed?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-712.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-713,What does Open mean?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-713.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-714,What does Completed mean?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-714.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-715,Who writes the program articles?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-715.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-716,Why did the assistant not answer my question?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-716.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-717,Why was my request sent to staff?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-717.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-718,Does the assistant read my messages aloud to others?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-718.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-719,How are my entries protected?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-719.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-720,What if my consent has expired?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-720.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-721,Can I withdraw my consent?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-721.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-722,How do I update my phone number?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-722.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-723,How do I update my email address?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-723.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-724,Can I get reminders in two channels?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-724.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-725,Can I use the program without the app?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-725.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-726,What period does a summary cover?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-726.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-727,Why does my summary list missing dates?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-727.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-728,What if I entered the wrong time?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-728.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-729,Can staff see my old corrected entries?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-729.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-730,What is a staff review?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-730.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-731,How long does a staff follow-up take?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-731.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-732,Can the assistant book appointments?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-732.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-733,Does the assistant know my medicines?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-733.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-734,Who do I ask about my treatment?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-734.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-735,Is the assistant a doctor?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-735.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-736,What languages are supported?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-736.md,Retired,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-737,Why does the assistant add a disclaimer?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-737.md,Draft,Content Lead (synthetic),2026-10-07,Synthetic article
+FAQ-738,What is an article ID?,All programs,v1,Program FAQ,faq,knowledge/faq/FAQ-738.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+CPG-807,Handling a task with an unusual frequency,All programs,v1,Care plan guidance,careplan_guidance,knowledge/careplan_guidance/CPG-807.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+CPG-808,Reporting statuses exactly as recorded,All programs,v1,Care plan guidance,careplan_guidance,knowledge/careplan_guidance/CPG-808.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+CPG-809,Grouping tasks in a reminder,All programs,v1,Care plan guidance,careplan_guidance,knowledge/careplan_guidance/CPG-809.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+CPG-810,Reminders for overdue tasks,All programs,v1,Care plan guidance,careplan_guidance,knowledge/careplan_guidance/CPG-810.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+CPG-811,Reminder language,All programs,v1,Care plan guidance,careplan_guidance,knowledge/careplan_guidance/CPG-811.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+CPG-812,Check-in questions,All programs,v1,Care plan guidance,careplan_guidance,knowledge/careplan_guidance/CPG-812.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+CPG-813,When a care plan has no tasks,All programs,v1,Care plan guidance,careplan_guidance,knowledge/careplan_guidance/CPG-813.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+CPG-814,Completed tasks in summaries,All programs,v1,Care plan guidance,careplan_guidance,knowledge/careplan_guidance/CPG-814.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+CPG-815,Tasks for members without consent,All programs,v1,Care plan guidance,careplan_guidance,knowledge/careplan_guidance/CPG-815.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+CPG-816,Duplicate tasks,All programs,v1,Care plan guidance,careplan_guidance,knowledge/careplan_guidance/CPG-816.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+CPG-817,Tasks due today,All programs,v1,Care plan guidance,careplan_guidance,knowledge/careplan_guidance/CPG-817.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+CPG-818,Coordinator check-in tasks,All programs,v1,Care plan guidance,careplan_guidance,knowledge/careplan_guidance/CPG-818.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+CPG-819,Education module tasks,All programs,v1,Care plan guidance,careplan_guidance,knowledge/careplan_guidance/CPG-819.md,Approved,Content Lead (synthetic),2026-10-07,Synthetic article
+CPG-820,Staff queue notes,All programs,v1,Care plan guidance,careplan_guidance,knowledge/careplan_guidance/CPG-820.md,Retired,Content Lead (synthetic),2026-10-07,Synthetic article
+CPG-821,Closing a staff review item,All programs,v1,Care plan guidance,careplan_guidance,knowledge/careplan_guidance/CPG-821.md,Draft,Content Lead (synthetic),2026-10-07,Synthetic article
